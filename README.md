@@ -1,4 +1,9 @@
 # Auto_Scalable_Web_Application
+
+#PROJECT LINK:
+http://abc-env.eba-nmv8mtcz.eu-north-1.elasticbeanstalk.com/
+
+
 Deploying an auto scalable web application using AWS Elastic Beanstalk
 Introduction:
 Deploying
